@@ -1,6 +1,6 @@
 # MIS and Risk | Data Analyst | Data Enthusiast
 
-[Click here to download my latest CV](https://docs.google.com/document/d/1abkt_lp35excaujVkxwchwL6lfRbtucd/edit?usp=drive_link&ouid=101061277946539398819&rtpof=true&sd=true)
+**[Click here to download my latest CV](https://docs.google.com/document/d/1abkt_lp35excaujVkxwchwL6lfRbtucd/edit?usp=drive_link&ouid=101061277946539398819&rtpof=true&sd=true)**
 
 ## Experiences
 ### Management Information System Analyst @ PT. Asia Collect Indonesia - FLOW (Jan 2023 - Present)
