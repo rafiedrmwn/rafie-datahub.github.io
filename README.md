@@ -1,2 +1,4 @@
-# rafie-datahub.github.io
-Home of my data's portfolios.
+# Data Analyst
+
+### Experiences
+Management Information System Analyst @ PT. Asia Collect Indonesia - FLOW
