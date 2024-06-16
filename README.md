@@ -1,5 +1,7 @@
 # MIS and Risk | Data Analyst | Data Enthusiast
 
+[Click here to download my latest CV] (https://docs.google.com/document/d/1abkt_lp35excaujVkxwchwL6lfRbtucd/edit?usp=drive_link&ouid=101061277946539398819&rtpof=true&sd=true)
+
 ## Experiences
 ### Management Information System Analyst @ PT. Asia Collect Indonesia - FLOW (Jan 2023 - Present)
 Data-driven MIS & Risk Analyst with expertise in driving efficiency, mitigating financial risks, and providing valuable insights across multiple countries. Skilled in analyzing portfolios’ and forecasting, managing databases, generating reports, presenting data, and automating ad-hoc analytical reports. Collaborative and detail-oriented professional dedicated to ensuring data accuracy and optimizing performance. With direct involvement from senior stakeholders, including the Head of Operational Risk, Strategy Team, and Country Manager in Indonesia, I contribute to the success of the company across Indonesia, and India. My core objectives are data accuracy, performance optimization, and enabling informed decision-making, resulting in enhanced efficiency, reduced financial risks, and sustainable growth.
