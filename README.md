@@ -40,7 +40,7 @@ As part of the program I worked on several project assignment:
   - Handled missing data, outliers, and performed string and time series manipulation.
   - Aggregated data, conducted descriptive statistics, and visualized data using Python.
   - Applied cluster analysis techniques such as K-means and RFM methods.
-- Creating dashboards and conducting data exploration with Tableau and Google Data Studio for AirBnB data for public::
+- Creating dashboards and conducting data exploration with Tableau and Google Data Studio for AirBnB data for public:
   - Utilized Google Data Studio to create interactive dashboards and calculated fields.
   - Visualized exploratory data analysis and created interactive map dashboards in Tableau.
   - Applied Tableau functionalities, including data connection, combination, hierarchies, and bins.
