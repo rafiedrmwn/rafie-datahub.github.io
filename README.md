@@ -1,4 +1,4 @@
-# Data Analyst
+# MIS and Risk | Data Analyst | Data Enthusiast
 
 ### Experiences
 #### Management Information System Analyst @ PT. Asia Collect Indonesia - FLOW (Jan 2023 - Present)
@@ -51,3 +51,24 @@ Key Skills & Experience:
 - Detailed management of payment reports for selected cases, including thorough review and cross-referencing of payment data to compile comprehensive reports.
 - Handling missing payment reports by conducting diligent investigations and working towards timely resolutions.
 - Collaborating with the Supervisor and team members to maintain organized and efficient operational workflows.
+
+
+### Educations
+#### Pacmann's Data Science Bootcamp (2024 - 2025)
+Dedicating myself to pursue more knowledge around data world, next step on learning how to become Data Scientist.
+
+#### RevoU Full Stack Data Analyst (Sep 2022 - Dec 2022)
+Qualified as one of the students with a low acceptance rate.
+Dedicated more than 200 hours on online classes and assignments.
+Mentored by instructors from Tech Industries such as Tokopedia, Gojek, Bank Jago, etc. 
+Learned analytical processes from understanding business problems from various fields. 
+Learned collecting, extracting, and manipulating data using Spreadsheet, SQL, and Python. Learned visualizing and communication insights using Tableau and Google Data Studio
+Competence in business understanding skills and presentation skills to multiple stakeholders
+
+#### Universitas Pembangunan Jaya (Sep 2022 - Jul 2024)
+Current GPA: 3.33/4.00
+Thesis: The Influence of Entrepreneurial Marketing on Performance Mediated by Competitive Advantage and Moderated by Technological Turbulence
+Marketing focused. Learning about future business outcomes by forecasting and analyzing it, managing the chemistry between colleagues in the organization on many projects through human resources’ aspects.
+
+#### Bali International Flight Academy (2018 - 2019)
+Completed a comprehensive commercial pilot training program at Bali International Flight Academy from 2018 to  2019. Received thorough instruction in aviation theory, flight operations, and safety procedures. Developed strong skills in flight simulations, navigation, and aircraft systems. Collaborated with peers and engaged in various aviation workshops, fostering teamwork and communication. Proud to have been part of a prestigious institution dedicated to shaping aspiring pilots into skilled aviation professionals.
