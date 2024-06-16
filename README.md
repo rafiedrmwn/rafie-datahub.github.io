@@ -15,3 +15,39 @@ Key Skills & Experiences:
 - Production of weekly reports on internal team performance, providing valuable insights for internal use and partner meetings.
 - Generation of ad-hoc analytical reports for finance, operations, and strategy teams to diagnose root causes of operational pain points.
 - Design, build, and automate the ad-hoc reports using SQL Server Reporting Services (SSRS) for streamlined and efficient reporting processes.
+
+#### Full Stack Data Analytics @ RevoU as part of learning experiences (Oct 2022 - Dec 2022)
+
+As part of the program I worked on several project assignment:
+- Analyzing and Visualizing The Maven Toys Store Data:
+  - Managed project progress, led group discussions, and assigned tasks to team members to ensure timely completion of project targets.
+  - Defined business problems, identified variables, and conducted root cause analysis.
+  - Performed data cleaning and preparation using Google BigQuery and Python to ensure accuracy and relevance.
+  - Conducted exploratory data analysis, correlation analysis, and regression analysis using Python.
+  - Visualized data using Tableau, including bar charts, line charts, map charts, and heat maps.
+  - Prepared presentation decks and designs using Canva.
+- Understanding business problems and Creating EDA & Statistical Measurements using Excel/Spreadsheets:
+  - Identified root causes of business problems and formulated problem statements.
+  - Predicted property listing prices based on data analysis.
+  - Utilized data to identify optimal promotion campaigns for boosting sales.
+- Data exploration and cohort analysis in Google Public Dataset (The Look Ecommerce) using Google BigQuery:
+  - Applied SQL functions, aggregate functions, and date format functions.
+  - Combined and merged data using SQL unions and joins.
+  - Utilized CTE, subqueries, and window functions.
+- Data cleaning, manipulation, EDA, cluster analysis, and customer segmentation of an Imaginary Indonesian Investment Platform Startup using Python:
+  - Handled missing data, outliers, and performed string and time series manipulation.
+  - Aggregated data, conducted descriptive statistics, and visualized data using Python.
+  - Applied cluster analysis techniques such as K-means and RFM methods.
+- Creating dashboards and conducting data exploration with Tableau and Google Data Studio for AirBnB data for public::
+  - Utilized Google Data Studio to create interactive dashboards and calculated fields.
+  - Visualized exploratory data analysis and created interactive map dashboards in Tableau.
+  - Applied Tableau functionalities, including data connection, combination, hierarchies, and bins.
+
+#### Admin Operations Collection (Nov 2021 - Dec 2022)
+Data-oriented Admin Operational professional with a focus on ensuring smooth operations and efficient processes. Skilled in managing payment reports. Dedicated to maintaining accuracy and organization in financial transactions and collaborating with supervisors and team members. Played a pivotal role in ensuring smooth operations and efficient processes within the organization. Key tasks included managing and providing detailed payment reports for selected cases, meticulously reviewing payment data, handling missing payment reports, and raising tickets for approval by the Supervisor. Through my dedication to accuracy and collaboration with the Supervisor and team members, I contributed to maintaining an organized and efficient operational environment.
+
+Key Skills & Experience:
+
+- Detailed management of payment reports for selected cases, including thorough review and cross-referencing of payment data to compile comprehensive reports.
+- Handling missing payment reports by conducting diligent investigations and working towards timely resolutions.
+- Collaborating with the Supervisor and team members to maintain organized and efficient operational workflows.
