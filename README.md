@@ -45,7 +45,7 @@ As part of the program I worked on several project assignment:
   - Visualized exploratory data analysis and created interactive map dashboards in Tableau.
   - Applied Tableau functionalities, including data connection, combination, hierarchies, and bins.
 
-### Admin Operations Collection (Nov 2021 - Dec 2022)
+### Admin Operations Collection @ PT. Asia Collect Indonesia - FLOW (Nov 2021 - Dec 2022)
 Data-oriented Admin Operational professional with a focus on ensuring smooth operations and efficient processes. Skilled in managing payment reports. Dedicated to maintaining accuracy and organization in financial transactions and collaborating with supervisors and team members. Played a pivotal role in ensuring smooth operations and efficient processes within the organization. Key tasks included managing and providing detailed payment reports for selected cases, meticulously reviewing payment data, handling missing payment reports, and raising tickets for approval by the Supervisor. Through my dedication to accuracy and collaboration with the Supervisor and team members, I contributed to maintaining an organized and efficient operational environment.
 
 Key Skills & Experience:
